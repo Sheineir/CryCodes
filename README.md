@@ -4,7 +4,7 @@
 
 Languages (some are scripting langs!):
 C, C# C++, Assembly x64 and x86, JavaScript, Rust, Go,
-Java, Kotlin, Python, SQL, ByteCode Edeting
+Java, Kotlin, Python, SQL, ByteCode Editing
 
 Idea|s I use: Intellij, NetBeans, VisualStudio, PyCharm, CLion
 
